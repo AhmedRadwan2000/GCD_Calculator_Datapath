@@ -17,6 +17,7 @@ This is the Datapath diagram.
 ![Datapath](datapath.png)
 
 The Datapath consists of the following:
+
 •	2x Multiplexer:
   Used to select between the value of the external world and the value coming from the Datapath itself.
 
@@ -31,6 +32,7 @@ The Datapath consists of the following:
 
 
 This is the FSM for the Controller.
+
 ![FSM](fsm.png)
 
 The controller controls cases step by step in Datapath it can change from the current state to the next state and based on certain conditions.

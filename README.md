@@ -4,7 +4,7 @@ A GCD Calculator Datapath, it is a circuit that can find the greatest common div
 We used the Euclid’s Algorithm for finding the greatest common divisor of two integers:
 ![Euclid's algorithm](eu_gcd.jpg)
 
-This the block diagram of the ciruit.
+This is the block diagram of the ciruit.
 ![Block diagram](block.png)
 
 

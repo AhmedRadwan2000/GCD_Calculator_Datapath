@@ -1,10 +1,12 @@
 # GCD Calculator Datapath
 A GCD Calculator Datapath, it is a circuit that can find the greatest common divisor between two non-zeros. This the largest positive integer that divides each of the numbers in the set without remainder.                     
 
-We used the Euclid’s Algorithm for finding the greatest common divisor of two integers:
+We used the Euclid’s Algorithm for finding the greatest common divisor of two integers.
+
 ![Euclid's algorithm](eu_gcd.jpg)
 
 This is the block diagram of the ciruit.
+
 ![Block diagram](block.png)
 
 
@@ -14,6 +16,7 @@ The circuit consists of two parts:
 
 
 This is the Datapath diagram.
+
 ![Datapath](datapath.png)
 
 The Datapath consists of the following:
